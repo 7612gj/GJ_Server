@@ -1,0 +1,3 @@
+function miss(){
+  alert('oops');
+}
